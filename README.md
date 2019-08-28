@@ -15,30 +15,47 @@ sets the status of the bots "now playing"
 Command List
 ------------
 ??help ---Help
+
 ??h ---Help
+
 ??help [command]  ---help with a specific command
+
 ??info --- bot information
+
 ??say  ---Bot will say something
+
 ??echo  ---Bot will say something
+
 ??tag loglocation  --- tells you the IsR Log directory
+
 ??tag dumplocation   --- tells you the IsR Dump directory
 
 Rep System
 ----------
 ??rep ---Check your rep
+
 ??rep @user  ---check other users
+
 +rep @user  --- add a rep point
+
 -rep @user  --- remove a rep point
+
 +rep @user -c   ---- reasons for giving rep  --- add a point and why
+
 ??show all   --- shows the entire rep list of users
+
 ??del_com [id]   --- deletes comments on rep system if needed for toxic comments
 
 Guide System
 -------------
 ??guide  --- pulls up the steam reactor guide link
+
 ??nuke   --- alias ??guide
+
 ??rods  ---recipies
+
 ??turbines  --- recipies
+
 ??heatsinks  --- recipies
 
 Loan System
