@@ -60,52 +60,55 @@ Guide System
 
 Loan System
 -----------
-??balance [member] [amount] (note)
+??balance [member] [amount] (note)  ---  
 this will be used to set a "debt" system for personal use, this is private and will DM the users involved. 
 
-??bal [member] [amount] (note)
+??bal [member] [amount] (note)   ---
 Give units to a member.
 
-??viewbal (member)
+??viewbal (member)   ---  
 View your balance with other members. Leave members empty to see everyone's balance with you
 
 Muster Requests
 ----------------
 ??muster  ---- used to request services
-example:
-??muster [amount] [name] [location]
 
-??request [member] [item] [amount] [location]
+example:  ??muster [amount] [name] [location]
+
+??request [member] [item] [amount] [location]   ---  
 Ask for resources from a specific user. Please but the name in "" if it's more than one words.
 
-??tribute [amount] [name] [location]
+??tribute [amount] [name] [location]   --- 
 Log your tribute paid to the vault or custom dropbox. Please put the name in "" if it's more than one word
 
-??deliver [amount] [name] [location]
+??deliver [amount] [name] [location]   ---   
 Log in a channel what you delivered. Please put the name in "" if it's more than one word
 
 Trade System
 -------------
 ??trade [name] [amount] [place] (--vip) (--buy price) (--sell price)
+
 Add a trade to the trade list. Please put the name in "" if it's multiple words. Use the --vip flag at the end to make this a vip only trade.
 
 ??del [trade id]
+
 Delete a trade [id is given after trade is posted]
 Creator of trade or @merchant
 
 ??set [id] [amount] [buy price] [sell price] [location]
+
 Alter the prices and numbers for a trade
 @merchants only command
 
 Emoji Manager
 -------------
-??addres [name] [emoji]
+??addres [name] [emoji]   ---   
 Add emoji
 
-??remres [name]
+??remres [name]   --- 
 Remove emoji
 
-??None
+??None   ---   
 Shows all available emojis
 
 Role Manager
