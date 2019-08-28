@@ -1,6 +1,10 @@
 # Geoff-The-Galacatic-Bot
 Interstellar Rift Discord Bot Read Me/ Guide
 
+Installation Link
+-----------------
+https://discordapp.com/oauth2/authorize?client_id=556225683819331596&permissions=1409674304&scope=bot
+
 Discord Fleet Manager
 
 Default Prefix "??"
